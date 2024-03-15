@@ -1,5 +1,4 @@
-import '@styles/tree.css';
-import './style.css';
+import '@styles/tree.cs
 const getTreeData = () => {
   return {
     element: 'test',
