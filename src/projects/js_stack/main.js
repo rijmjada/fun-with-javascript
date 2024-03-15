@@ -7,7 +7,7 @@ import '@styles/globals.css';
     }
 
     isEmpty() {
-      return this.items.length === 0;
+      return this.items.length === 
     }
 
     clear() {
